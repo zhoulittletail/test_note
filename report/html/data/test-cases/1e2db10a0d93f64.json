@@ -1,0 +1,60 @@
+{
+  "uid" : "1e2db10a0d93f64",
+  "name" : "Test_network.test_mobile_network_2g",
+  "fullName" : "scripts.test_network.Test_network.test_mobile_network_2g",
+  "historyId" : "5fa4fe255961af7a0c0ea12783f73c8",
+  "time" : {
+    "start" : 1530175097572,
+    "stop" : 1530175111077,
+    "duration" : 13505
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-42VMHUN"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "988-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_network"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_network"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_network.test_mobile_network_2g"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_network"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e2db10a0d93f64.json",
+  "parameterValues" : [ ]
+}

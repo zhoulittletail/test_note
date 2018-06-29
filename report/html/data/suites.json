@@ -1,0 +1,49 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts.test_display",
+    "children" : [ {
+      "name" : "Test_display.test_mobile_display_input",
+      "uid" : "475243f82591df85",
+      "parentUid" : "ab60e7ae472db6e6a740fc30b85d8161",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530175082992,
+        "stop" : 1530175097564,
+        "duration" : 14572
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ab60e7ae472db6e6a740fc30b85d8161"
+  }, {
+    "name" : "scripts.test_network",
+    "children" : [ {
+      "name" : "Test_network.test_mobile_network_2g",
+      "uid" : "1e2db10a0d93f64",
+      "parentUid" : "5f4cae23b61baee5fa85a33d20cec7c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530175097572,
+        "stop" : 1530175111077,
+        "duration" : 13505
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_network.test_mobile_network_3g",
+      "uid" : "55fa5d5a90493907",
+      "parentUid" : "5f4cae23b61baee5fa85a33d20cec7c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1530175111078,
+        "stop" : 1530175124255,
+        "duration" : 13177
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5f4cae23b61baee5fa85a33d20cec7c8"
+  } ]
+}

@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-42VMHUN",
+    "children" : [ {
+      "name" : "988-MainThread",
+      "children" : [ {
+        "name" : "Test_display.test_mobile_display_input",
+        "uid" : "475243f82591df85",
+        "parentUid" : "aea236083151b67f286dd40622bc2137",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530175082992,
+          "stop" : 1530175097564,
+          "duration" : 14572
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_network.test_mobile_network_3g",
+        "uid" : "55fa5d5a90493907",
+        "parentUid" : "aea236083151b67f286dd40622bc2137",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530175111078,
+          "stop" : 1530175124255,
+          "duration" : 13177
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_network.test_mobile_network_2g",
+        "uid" : "1e2db10a0d93f64",
+        "parentUid" : "aea236083151b67f286dd40622bc2137",
+        "status" : "passed",
+        "time" : {
+          "start" : 1530175097572,
+          "stop" : 1530175111077,
+          "duration" : 13505
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aea236083151b67f286dd40622bc2137"
+    } ],
+    "uid" : "d594a544b1c21d6c8c415ce472e33f78"
+  } ]
+}

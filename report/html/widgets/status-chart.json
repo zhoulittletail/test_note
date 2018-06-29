@@ -1,0 +1,31 @@
+[ {
+  "uid" : "475243f82591df85",
+  "name" : "Test_display.test_mobile_display_input",
+  "time" : {
+    "start" : 1530175082992,
+    "stop" : 1530175097564,
+    "duration" : 14572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55fa5d5a90493907",
+  "name" : "Test_network.test_mobile_network_3g",
+  "time" : {
+    "start" : 1530175111078,
+    "stop" : 1530175124255,
+    "duration" : 13177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e2db10a0d93f64",
+  "name" : "Test_network.test_mobile_network_2g",
+  "time" : {
+    "start" : 1530175097572,
+    "stop" : 1530175111077,
+    "duration" : 13505
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
